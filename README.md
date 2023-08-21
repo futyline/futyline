@@ -14,7 +14,7 @@
 <div align="center">  
 <a href="https://www.linkedin.com/in/lierbeth-de-carvalho-3904b2230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://play.google.com/store/apps/developer?id=FutyLine&hl=pt_BR&gl=US" target="_blank"><img src="https://img.shields.io/badge/Play_Store-0077B5?style=for-the-badge&logo=google-play&logoColor=white"</a>
-<a href="https://web.dio.me/users/futyline?tab=skills" target="_blank"><img src="https://img.shields.io/badge/DIO profile-0077B5?style=for-the-badge&logo=&logoColor=white"</a>
+<a href="https://www.dio.me/users/futyline" target="_blank"><img src="https://img.shields.io/badge/DIO profile-0077B5?style=for-the-badge&logo=&logoColor=white"</a>
 <a href="mailto:futyline@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 
 </div>

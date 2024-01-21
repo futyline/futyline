@@ -3,19 +3,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you,+my+name+is+Lierbeth;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=futyline&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Lierbeth's github stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=futyline&theme=tokyonight&show_icons=true" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futyline&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=futyline&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=futyline&theme=city_lights&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/lierbeth-de-carvalho-3904b2230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://play.google.com/store/apps/developer?id=FutyLine&hl=pt_BR&gl=US" target="_blank"><img src="https://img.shields.io/badge/Play_Store-0077B5?style=for-the-badge&logo=google-play&logoColor=white"</a>
 <a href="https://www.dio.me/users/futyline" target="_blank"><img src="https://img.shields.io/badge/DIO profile-0077B5?style=for-the-badge&logo=&logoColor=white"</a>
-<a href="mailto:futyline@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="mailto:futylinedeveloper@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 
 </div>
   
